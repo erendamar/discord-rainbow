@@ -1,0 +1,23 @@
+{
+    "token": "YOUR-SUPER-SECRET-TOKEN", 
+    "prefix": ".",
+    "rainbowgecikme": 3000,
+    "rainbowbaslamakomutu": "rainbow",
+    "rainbowdurdur": "rainbowoff",
+    "rainbowrolleri": [
+        "#7e6df4",
+        "#b5e6df",
+        "#eaabf3",
+        "#f18056",
+        "#fff780",
+        "#ba5555",
+        "#46bde2",
+		"#020506"
+    ],
+    "bozukbolum": {
+        "yetkiyok": "Yetkiniz bu özelliği kullanabilmek için yetersizdir..",
+        "basarili": "İstediğin komut başarı ile uygulanmıştır. Renkli rol sistemi aktif.",
+        "rainbowdurdurmesaj": "İstediğin komut başarı ile uygulanmıştır. Renkli rol sistemi kapalı.",
+        "rolbulunamadi": "Aradığın rol yok."
+    }
+}
