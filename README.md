@@ -1,6 +1,4 @@
 # discord-rainbow
-Make your discord role rainbow :o
-
 
 ------------------------------------------------------------------------
 
@@ -8,5 +6,7 @@ Make your discord role rainbow :o
 
 ------------------------------------------------------------------------
 
-Başlatma komutu/Start command: ".rainbow @role".\nDurdurma komutu/Stop command: ".rainbowoff"
+Başlatma komutu/Start command: ".rainbow @role"
+
+Durdurma komutu/Stop command: ".rainbowoff"
 
